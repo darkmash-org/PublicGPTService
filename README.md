@@ -24,8 +24,6 @@ PublicGPTService || Free GPT3 API || Darkmash
 
   <b>Using curl :</b>
 
-<i>
 ```sh
   curl -i -H "Accept: application/json" -H "prompt: [what you wanna ask]"  https://main--publicgptservice.repl.co/generate
 ```  
-</i>
