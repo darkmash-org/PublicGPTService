@@ -35,7 +35,7 @@ PublicGPTService || Free GPT3 API || Darkmash
 - (currently only works on linux/macOS): 
 
 ```sh
-git clone
+git clone https://github.com/darkmash-org/PublicGPTService.git
 ```
 
 ```sh
